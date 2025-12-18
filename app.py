@@ -1,3 +1,2 @@
-print(Hello)
-print('Hello, User')
-print('HI')
+user = 'Ala'
+print(f'Hello {user}')
